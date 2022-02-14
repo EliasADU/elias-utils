@@ -9,3 +9,5 @@ goog.ahk: Searches selected text on google when ctrl+shift+c is pressed
 quickdoc.ahk: When capslock+A is pressed, creates new text file on current Explorer directory
 
 config.xml AND stylers.xml: files for text style and configuration for Notepad++, turns it into essentially Notepad with tabs and auto indentation. Great for using with anynotes.ahk.
+
+.gitattributes: LFS settings for Unity projects, all that you need is to copy/paste this file at the root level.
