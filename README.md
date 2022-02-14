@@ -1,7 +1,7 @@
 # elias-utils
 Tiny utilities that I use frequently
 
-anynotes.ahk: opens up Notepad++ (assuming it is installed in the default Windows 10 directory) when F24 is pressed. 
+anynotes.ahk: opens up Notepad++ (assuming it is in the start menu) when F24 is pressed. 
   You should probably remap some key to F24 for this.
   
 goog.ahk: Searches selected text on google when ctrl+shift+c is pressed.
