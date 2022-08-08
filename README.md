@@ -11,3 +11,6 @@ quickdoc.ahk: When capslock+A is pressed, creates new text file on current Explo
 config.xml AND stylers.xml: files for text style and configuration for Notepad++, turns it into essentially Notepad with tabs and auto indentation. Great for using with anynotes.ahk.
 
 .gitattributes: LFS settings for Unity projects, all that you need is to copy/paste this file at the root level.
+
+CheckboardGlobalShader.shader AND CheckboardLocalShader.shader: Shaders to use with prototype-grid materials to make the texture tile automatically as an object is
+  resized.
