@@ -14,3 +14,5 @@ config.xml AND stylers.xml: files for text style and configuration for Notepad++
 
 CheckboardGlobalShader.shader AND CheckboardLocalShader.shader: Shaders to use with prototype-grid materials to make the texture tile automatically as an object is
   resized.
+
+nice_foobar_theme.fth: Just a nice foobar theme, nothing special.
